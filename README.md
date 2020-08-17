@@ -8,3 +8,4 @@ Simplify the release of code on github
 
 # Config
 
+1. npm i -D semantic-release @semantic-release/{github,git,commit-analyzer,release-notes-generator,changelog} 
