@@ -10,5 +10,4 @@
     "@semantic-release/github"
   ],
     'branches': ['prod', {'name':'staging', 'prerelease': true}, 'master'],
-    "repository": "https://github.com/Bento007/CodeReleaseTest"
 }
