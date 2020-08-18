@@ -1,3 +1,5 @@
+## [1.0.2-beta.0](https://github.com/Bento007/CodeRelease/compare/v1.0.2-0...v1.0.2-beta.0) (2020-08-18)
+
 ## [1.0.2-0](https://github.com/Bento007/CodeRelease/compare/v1.0.1...v1.0.2-0) (2020-08-18)
 
 
