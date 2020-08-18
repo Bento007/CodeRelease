@@ -1,3 +1,10 @@
+## [1.0.2-0](https://github.com/Bento007/CodeRelease/compare/v1.0.1...v1.0.2-0) (2020-08-18)
+
+
+### Bug Fixes
+
+* master is a pre-release ([bf8034c](https://github.com/Bento007/CodeRelease/commit/bf8034cb7d76c82e1406d1a9d054af5c961e2495))
+
 ## [1.0.1](https://github.com/Bento007/CodeRelease/compare/v1.0.0...v1.0.1) (2020-08-18)
 
 
