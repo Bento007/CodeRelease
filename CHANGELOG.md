@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/Bento007/CodeRelease/compare/v1.0.0...v1.0.1) (2020-08-18)
+
+
+### Bug Fixes
+
+* don't release with commits to master ([95d9981](https://github.com/Bento007/CodeRelease/commit/95d9981a866d1d1457445e679595e5586c7cf58d))
+
 # 1.0.0 (2020-08-18)
 
 
