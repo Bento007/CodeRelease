@@ -9,5 +9,5 @@
     }],
     "@semantic-release/github"
   ],
-    'branches': ['prod', {'name':'staging', 'prerelease': true}, 'master'],
+    'branches': ['prod', {'name':'staging', 'prerelease': true}],
 }
